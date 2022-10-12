@@ -1,0 +1,67 @@
+agencyzone xd link for developement:-https://xd.adobe.com/view/29c3a6bf-2480-49e3-8cd7-09e658cf909e-7c90/specs/
+
+wifi user name:-admin
+wifi password:-7028123225
+
+clip path maker :-https://css-playground.com/view/65/clipping-paths-with-clip-path
+cheking the errore of code and validate :-https://validator.w3.org/
+responsive slider:- https://kenwheeler.github.io/slick/
+webfont generator:-https://www.fontspace.com/web-font-generator#token=0701e9455add4230b9d9a30cc309b81f
+font generator :- https://transfonter.org/
+http://design.neosofttech.in/227/corejs/assignment.html#
+
+port no is 227
+https://online.thinknexttraining.com/lesson/details/react-js/react-installation
+
+study of javascript
+https://www.programiz.com/javascript/library/array/reduce
+https://www.codingninjas.com/codestudio/library/synchronous-and-asynchronous-javascript
+
+https://www.speakeasy.net/speedtest/
+
+array method example
+https://www.tutsmake.com/javascript-filter-array/
+
+mongose database connectivity
+https://www.youtube.com/watch?v=68Jd7GXZPe8
+
+react ecommerse app :-https://www.youtube.com/watch?v=CDtPMR5y0QU
+
+mysql -u root -p
+msql port no = 3306
+
+filezilla software details
+host:- design.neosofttech.in
+encription:-only use plane ftp
+logon type:- Normal
+user:- p_satpute
+password:- k1f$0vY0
+
+Thunderbird Details
+thunderbird Email :- pravin.satpute@neosoftmail.com
+thunderbird password:- Y%4v)@54^Ok6
+
+MIS Details
+mis  Email :- pravin.satpute@neosoftmail.com
+mis  password:- pravins123
+
+cyberoms details
+loginid:- pravin.satpute
+password:- pravins123
+
+neosoft gmail account details
+email id:- pravinsatpute.neosoftmail@gmail.com
+password:- Pravin@1996
+
+Entrust Details:-
+Login id:- neo6627
+password:- Pravin@1996
+
+icommon Details:
+ login id:- pravin96satpute@gmail.com
+ password:- Pravin@1996
+
+Replit Account Details
+login link = https://replit.com/login
+id= pravin1996
+password= Pravin@1996

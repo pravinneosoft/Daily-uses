@@ -1,0 +1,20 @@
+create new directory
+Add app folder
+Add gulpfile.js  file
+
+cammands:-
+
+
+npm install --global gulp-cli
+npm init
+npm install --save-dev gulp
+npm i gulp-install
+npm i gulp-autoprefixer
+npm install gulp-clean-css
+npm install gulp-concat
+npm install gulp-csso
+npm install gulp-minify
+npm install sass
+npm install gulp-sourcemaps
+npm install gulp-sass
+gulp watch

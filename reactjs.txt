@@ -1,0 +1,24 @@
+What is Axios?
+Axios is a promise-based HTTP Client for node.js and the browser. It is isomorphic (= it can run in the browser and nodejs with the same codebase). On the server-side it uses the native node.js http module, while on the client (browser) it uses XMLHttpRequests.
+
+Features
+Make XMLHttpRequests from the browser
+Make http requests from node.js
+Supports the Promise API
+Intercept request and response
+Transform request and response data
+Cancel requests
+Automatic transforms for JSON data
+Client side support for protecting against XSRF
+
+
+Basic Hooks
+useState
+const [state, setState] = useState(initialState);
+Returns a stateful value, and a function to update it.
+During the initial render, the returned state (state) is the same as the value passed as the first argument (initialState).
+The setState function is used to update the state. It accepts a new state value and enqueues a re-render of the component.
+ react animation:-
+https://codesandbox.io/s/jzl8vp5yy5
+
+git remote set-url origin git@github.com:thirdusername/thirdrepository.git
